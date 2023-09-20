@@ -12,7 +12,7 @@ Salut ! Je suis Abdou Sow, un développeur passionné par la technologie et le c
 
 - 💻 Développement web & mobile
 - 📊 Web Design
-- 🤖 Photoshop, Illustrator, Premiere pro etc.
+- 👨🏾‍💻 Photoshop, Illustrator, Premiere pro etc.
 - 🐍 Langages de programmation : Java, JavaScript, TypeScript, Simple Issue Language etc.
 
 ## Mes projets
